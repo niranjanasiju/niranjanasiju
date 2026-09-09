@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, I'm Niranjana Siju 👋
 
-<!--
-**niranjanasiju/niranjanasiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML • Backend • Intelligent Systems
 
-Here are some ideas to get you started:
+Computer Science undergraduate at **Govt. Model Engineering College, Kochi**, building AI-powered systems that go beyond models — from **ML pipelines and APIs to deployment and real-world applications.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Featured Projects
+
+| Project                                                             | What it is                                                       | Stack                               |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------- |
+|  **[MedSafeAI](https://github.com/niranjanasiju/S6-MiniProject)** | AI-powered medication safety platform using GNNs, BioBERT & LLMs | `PyTorch` `FastAPI` `RDKit` `React` |
+|  **[AutoPulse](https://github.com/niranjanasiju/Autopulse)**      | AI-powered OBD-II vehicle diagnostic assistant                   | `Flutter` `FastAPI` `RAG`           |
+|  **[SentinelX](https://github.com/niranjanasiju/WE_Project)**                                                   | ML-based anti-money laundering & fraud detection system          | `Python` `FastAPI` `React` `Scikit-learn`        |
+
+---
+
+##  Tech
+
+**Languages:** Python · C · C++   
+**Backend:** FastAPI · PostgreSQL · Supabase      
+**Frontend:** React · Next.js · Flutter   
+**Engineering:** Git · GitHub Actions · Docker · CI/CD · Testing   
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjanasiju)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanasiju.mec@gmail.com)
+
