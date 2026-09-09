@@ -1,25 +1,31 @@
-# Hi, I'm Niranjana Siju 👋
+# Hey, i'm Niranjana 👋
 
-### AI/ML • Backend • Intelligent Systems
 
-Computer Science undergraduate at **Govt. Model Engineering College, Kochi**, building AI-powered systems that go beyond models — from **ML pipelines and APIs to deployment and real-world applications.**
-
----
-
-##  Featured Projects
-
-| Project                                                             | What it is                                                       | Stack                               |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------- |
-|  **[MedSafeAI](https://github.com/niranjanasiju/S6-MiniProject)** | AI-powered medication safety platform using GNNs, BioBERT & LLMs | `PyTorch` `FastAPI` `RDKit` `React` |
-|  **[AutoPulse](https://github.com/niranjanasiju/Autopulse)**      | AI-powered OBD-II vehicle diagnostic assistant                   | `Flutter` `FastAPI` `RAG`           |
-|  **[SentinelX](https://github.com/niranjanasiju/WE_Project)**                                                   | ML-based anti-money laundering & fraud detection system          | `Python` `FastAPI` `React` `Scikit-learn`        |
+I'm a **Computer Science undergraduate at Govt. Model Engineering College, Kochi**, currently exploring **AI/ML, backend systems and generally anything that makes me go *"wait... can I build that?"***
 
 ---
 
-##  Tech
+###  Things i've built
+
+**[MedSafeAI](https://github.com/niranjanasiju/S6-MiniProject)**
+AI-powered medication safety system using GNNs, LLMs and biomedical data.
+
+**[AutoPulse](https://github.com/niranjanasiju/Autopulse)**
+An AI-powered OBD-II vehicle diagnostic assistant.
+
+**[SentinelX](https://github.com/niranjanasiju/WE_Project)**
+ML-based transaction risk detection and anti-money-laundering system.
+
+**[2D Space Shooter](https://github.com/niranjanasiju/2D-Space-Shooter)**
+Because building games is fun.
+
+---
+
+### Currently working with
 
 **Languages:** Python · C · C++   
-**Backend:** FastAPI · PostgreSQL · Supabase      
+**AI/ML:** PyTorch · GNNs · RAG · LLMs · SHAP  
+**Backend:** FastAPI · REST APIs · PostgreSQL · Supabase   
 **Frontend:** React · Next.js · Flutter   
 **Engineering:** Git · GitHub Actions · Docker · CI/CD · Testing   
 
